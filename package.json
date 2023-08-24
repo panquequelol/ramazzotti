@@ -1,9 +1,9 @@
 {
-  "name": "astro-kanagawa",
-  "displayName": "Astro Kanagawa",
-  "description": "Minimalistic Dark Theme.",
-  "version": "0.0.4",
-  "icon": "images/jaxa.jpg",
+  "name": "ramazzotti",
+  "displayName": "ramazzotti",
+  "description": "minimalistic and dark",
+  "version": "1.0.1",
+  "icon": "images/icon.png",
   "publisher": "panquequelol",
   "engines": {
     "vscode": "^1.79.0"
@@ -12,13 +12,16 @@
     "Themes"
   ],
   "keywords": [
+    "vesper",
     "dark",
-    "kanagawa",
-    "tokyo",
-    "shibuya",
-    "japan",
-    "astro",
-    "monokai"
+    "pink",
+    "purple",
+    "min",
+    "simple",
+    "minimal",
+    "night",
+    "minimalistic",
+    "duotone"
   ],
   "repository": {
     "type": "git",
@@ -27,19 +30,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Astro Kanagawa Dark",
+        "label": "ramazzotti rosato soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/astro-kanagawa.json"
+        "path": "./themes/ramazzotti-rosato-soft.json"
       },
       {
-        "label": "Astro Kanagawa",
+        "label": "ramazzotti rosato dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/astro-kanagawa-soft.json"
+        "path": "./themes/ramazzotti-rosato-dark.json"
       },
       {
-        "label": "Astro Monokai",
+        "label": "ramazzotti violetto dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/astro-monokai.json"
+        "path": "./themes/ramazzotti-violetto-dark.json"
+      },
+      {
+        "label": "ramazzotti violetto soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ramazzotti-violetto-soft.json"
       }
     ]
   }
