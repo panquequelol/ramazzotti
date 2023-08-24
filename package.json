@@ -2,7 +2,7 @@
   "name": "ramazzotti",
   "displayName": "ramazzotti",
   "description": "minimalistic and dark",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "images/icon.png",
   "publisher": "panquequelol",
   "engines": {
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/panquequelol/astro-kanagawa.git"
+    "url": "git+https://github.com/panquequelol/ramazzotti.git"
   },
   "contributes": {
     "themes": [
