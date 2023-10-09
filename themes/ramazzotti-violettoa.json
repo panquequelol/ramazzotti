@@ -1,17 +1,19 @@
 {
-  "name": "violetto soft",
+  "name": "ramazzotti violetto",
   "colors": {
     // Editor
-    "editor.background": "#242424",
+    "editor.background": "#100F0F",
     "editor.foreground": "#D4D4D4",
     "editor.selectionBackground": "#FFFFFF25",
     "editor.selectionHighlightBackground": "#FFFFFF25",
     "editorLineNumber.foreground": "#505050",
-    "editorGroupHeader.tabsBackground": "#242424",
-    "editorWidget.background": "#242424",
+    "editorGroupHeader.tabsBackground": "#100F0F",
+    "editorWidget.background": "#100F0F",
+    // main color
     "editorWarning.foreground": "#9b4dd9",
     "editorError.foreground": "#FF8080",
-    "editorOverviewRuler.border": "#242424",
+    "editorOverviewRuler.border": "#100F0F",
+    // secondary color
     "editorGutter.addedBackground": "#a8bcf2",
     "editorGutter.deletedBackground": "#FF8080",
     "editorGutter.modifiedBackground": "#9b4dd9",
@@ -22,29 +24,29 @@
     "editorInlayHint.foreground": "#A0A0A0",
     "editorInlayHint.background": "#1C1C1C",
     // Sidebar
-    "sideBar.background": "#242424",
+    "sideBar.background": "#100F0F",
     "sideBarTitle.foreground": "#A0A0A0",
     "sideBarSectionHeader.foreground": "#A0A0A0",
-    "sideBarSectionHeader.background": "#242424",
+    "sideBarSectionHeader.background": "#100F0F",
     // Activity bar
-    "activityBar.background": "#242424",
+    "activityBar.background": "#100F0F",
     "activityBar.foreground": "#A0A0A0",
     "activityBarBadge.background": "#9b4dd9",
     "activityBarBadge.foreground": "#000",
     // Title bar
-    "titleBar.activeBackground": "#242424",
-    "titleBar.inactiveBackground": "#242424",
+    "titleBar.activeBackground": "#100F0F",
+    "titleBar.inactiveBackground": "#100F0F",
     "titleBar.activeForeground": "#7E7E7E",
     "titleBar.inactiveForeground": "#707070",
     // Tab
-    "tab.border": "#242424",
-    "tab.activeBackground": "#242424",
-    "tab.inactiveBackground": "#242424",
+    "tab.border": "#100F0F",
+    "tab.activeBackground": "#100F0F",
+    "tab.inactiveBackground": "#100F0F",
     "tab.activeBorderTop": "#9b4dd9",
     // Status bar
     "statusBar.debuggingForeground": "#D4D4D4",
     "statusBar.debuggingBackground": "#FF7300",
-    "statusBar.background": "#242424",
+    "statusBar.background": "#100F0F",
     "statusBar.foreground": "#A0A0A0",
     "statusBarItem.remoteBackground": "#9b4dd9",
     "statusBarItem.remoteForeground": "#000",

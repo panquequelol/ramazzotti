@@ -1,9 +1,9 @@
 {
   "name": "ramazzotti",
   "displayName": "ramazzotti",
-  "description": "minimalistic and dark",
-  "version": "1.0.2",
-  "icon": "images/icon.png",
+  "description": "dark, minimal and pretty",
+  "version": "2.0.0",
+  "icon": "images/icon.jpeg",
   "publisher": "panquequelol",
   "engines": {
     "vscode": "^1.79.0"
@@ -14,14 +14,13 @@
   "keywords": [
     "vesper",
     "dark",
-    "pink",
-    "purple",
     "min",
     "simple",
     "minimal",
     "night",
     "minimalistic",
-    "duotone"
+    "gruvbox",
+    "vitesse"
   ],
   "repository": {
     "type": "git",
@@ -30,24 +29,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "ramazzotti rosato soft",
+        "label": "ramazzotti gruvbox",
         "uiTheme": "vs-dark",
-        "path": "./themes/ramazzotti-rosato-soft.json"
+        "path": "./themes/ramazzotti-gruvbox.json"
       },
       {
-        "label": "ramazzotti rosato dark",
+        "label": "ramazzoti flexobi",
         "uiTheme": "vs-dark",
-        "path": "./themes/ramazzotti-rosato-dark.json"
+        "path": "./themes/ramazzotti-flexobi.json"
       },
       {
-        "label": "ramazzotti violetto dark",
+        "label": "ramazzotti rosato",
         "uiTheme": "vs-dark",
-        "path": "./themes/ramazzotti-violetto-dark.json"
+        "path": "./themes/ramazzotti-rosato.json"
       },
       {
-        "label": "ramazzotti violetto soft",
+        "label": "ramazzotti violetto",
         "uiTheme": "vs-dark",
-        "path": "./themes/ramazzotti-violetto-soft.json"
+        "path": "./themes/ramazzotti-violetto.json"
       }
     ]
   }

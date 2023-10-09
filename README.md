@@ -1,23 +1,21 @@
 # ramazzotti theme
 
-made by [panquequelol](https://github.com/panquequelol), inspired by [Vesper](https://marketplace.visualstudio.com/items?itemName=raunofreiberg.vesper)
-
-<h5 align="center">ramazzotti rosato dark</h5>
+<h5 align="center">ramazzotti flexobi</h5>
 <p align="center">
-  <img width="600" src="https://imgur.com/0WT65Dr.png" />
+  <img width="666" src="https://github.com/panquequelol/ramazzotti/blob/main/images/flexobi.png" />
 </p>
 
-<h5 align="center">ramazzotti rosato soft</h5>
+<h5 align="center">ramazzotti violetto</h5>
 <p align="center">
-  <img width="600" src="https://imgur.com/XG8BObl.png" />
+  <img width="666" src="https://github.com/panquequelol/ramazzotti/blob/main/images/violetto.png" />
 </p>
 
-<h5 align="center">ramazzotti violetto dark</h5>
+<h5 align="center">ramazzotti gruvbox</h5>
 <p align="center">
-  <img width="600" src="https://imgur.com/09w9Aj1.png" />
+  <img width="666" src="https://github.com/panquequelol/ramazzotti/blob/main/images/gruvbox.png" />
 </p>
 
-<h5 align="center">ramazzotti violetto soft</h5>
+<h5 align="center">ramazzotti rosato</h5>
 <p align="center">
-  <img width="600" src="https://imgur.com/AeZZsKJ.png" />
+  <img width="666" src="https://github.com/panquequelol/ramazzotti/blob/main/images/rosato.png" />
 </p>
