@@ -2,7 +2,7 @@
   "name": "ramazzotti",
   "displayName": "ramazzotti",
   "description": "flexobi, vesper, and gruvbox alternatives",
-  "version": "2.0.2",
+  "version": "2.2.0",
   "icon": "images/icon.jpeg",
   "publisher": "panquequelol",
   "engines": {
@@ -33,6 +33,11 @@
         "label": "ramazzotti gruvbox",
         "uiTheme": "vs-dark",
         "path": "./themes/ramazzotti-gruvbox.json"
+      },
+      {
+        "label": "ramazzotti 80s",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ramazzotti-80s.json"
       },
       {
         "label": "ramazzoti flexobi",
