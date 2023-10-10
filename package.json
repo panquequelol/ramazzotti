@@ -2,7 +2,7 @@
   "name": "ramazzotti",
   "displayName": "ramazzotti",
   "description": "dark, minimal and pretty",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "icon": "images/icon.jpeg",
   "publisher": "panquequelol",
   "engines": {
@@ -20,7 +20,8 @@
     "night",
     "minimalistic",
     "gruvbox",
-    "vitesse"
+    "vitesse",
+    "flexobi"
   ],
   "repository": {
     "type": "git",
