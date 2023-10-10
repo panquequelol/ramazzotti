@@ -1,8 +1,8 @@
 {
   "name": "ramazzotti",
   "displayName": "ramazzotti",
-  "description": "dark, minimal and pretty",
-  "version": "2.0.1",
+  "description": "flexobi, vesper, and gruvbox alternatives",
+  "version": "2.0.2",
   "icon": "images/icon.jpeg",
   "publisher": "panquequelol",
   "engines": {
